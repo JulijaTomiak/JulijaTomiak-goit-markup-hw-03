@@ -104,14 +104,6 @@ span {
 .header-item:not(:last-child) {
     margin-right: 50px;
 }
-
-.link-current {
-    color:var(--secondary-text-color);
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 1.14;
-    letter-spacing: 0.02em;
-}
 .link {
     color: #212121;
     font-weight: 500;
@@ -119,6 +111,14 @@ span {
     line-height: 1.14;
     letter-spacing: 0.02em;
 }
+.link-current {
+    color:var(--secondary-text-color);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+}
+
 /*Контакти*/
 .contact-link {
     color: #757575;
